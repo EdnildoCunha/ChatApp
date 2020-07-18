@@ -8,8 +8,8 @@ https://github.com/webrtc
 * Usuário 1:
 
 
-admin@admin.com - senha: EngComp1996
+admin@admin.com - senha: Engcomp1996
 * Usuário 2:
 
 
-adminII@admin.com - senha: EngComp1996
+adminII@admin.com - senha: Engcomp1996
